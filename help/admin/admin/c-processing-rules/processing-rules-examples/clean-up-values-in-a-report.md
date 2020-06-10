@@ -14,7 +14,7 @@ To make sure you do not inadvertently match other values, use the most restricti
 
 |  Rule Set  | Value  |
 |---|---|
-|  Condition  | If prop1 Starts With Shopping  |
+|  Condition  | If prop1 Starts With Shoping  |
 |  Action  | Overwrite value of prop1 to Custom Value Shopping  |
 
 For example: 
