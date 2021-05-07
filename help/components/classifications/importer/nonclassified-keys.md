@@ -27,7 +27,7 @@ t_rename_classification_none.xml
 Steps that describe how to rename a non-classified key that displays as *`none`* in reporting.
 
 1. Using the importer, export classifications to a local file.
-1. Add a row to the file, and type [!DNL ~none~] in the Key column.
+1. Add a row to the file, and type "~none~" withouth the "" in the Key column.
 1. In the row you added, type the more descriptive name in the appropriate classification column(s).
 
    To follow the example in this documentation, you might type "non-mobile campaign" in a column named [!UICONTROL Mobile Campaign Name].
